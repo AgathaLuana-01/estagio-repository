@@ -1,0 +1,14 @@
+C:\Users\alsilva\source\repos\veiculo\veiculo\bin\Debug\netcoreapp3.1\veiculo.exe
+C:\Users\alsilva\source\repos\veiculo\veiculo\bin\Debug\netcoreapp3.1\veiculo.deps.json
+C:\Users\alsilva\source\repos\veiculo\veiculo\bin\Debug\netcoreapp3.1\veiculo.runtimeconfig.json
+C:\Users\alsilva\source\repos\veiculo\veiculo\bin\Debug\netcoreapp3.1\veiculo.runtimeconfig.dev.json
+C:\Users\alsilva\source\repos\veiculo\veiculo\bin\Debug\netcoreapp3.1\veiculo.dll
+C:\Users\alsilva\source\repos\veiculo\veiculo\bin\Debug\netcoreapp3.1\veiculo.pdb
+C:\Users\alsilva\source\repos\veiculo\veiculo\obj\Debug\netcoreapp3.1\veiculo.csproj.AssemblyReference.cache
+C:\Users\alsilva\source\repos\veiculo\veiculo\obj\Debug\netcoreapp3.1\veiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alsilva\source\repos\veiculo\veiculo\obj\Debug\netcoreapp3.1\veiculo.AssemblyInfoInputs.cache
+C:\Users\alsilva\source\repos\veiculo\veiculo\obj\Debug\netcoreapp3.1\veiculo.AssemblyInfo.cs
+C:\Users\alsilva\source\repos\veiculo\veiculo\obj\Debug\netcoreapp3.1\veiculo.csproj.CoreCompileInputs.cache
+C:\Users\alsilva\source\repos\veiculo\veiculo\obj\Debug\netcoreapp3.1\veiculo.dll
+C:\Users\alsilva\source\repos\veiculo\veiculo\obj\Debug\netcoreapp3.1\veiculo.pdb
+C:\Users\alsilva\source\repos\veiculo\veiculo\obj\Debug\netcoreapp3.1\veiculo.genruntimeconfig.cache
